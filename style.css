@@ -168,12 +168,13 @@ nav .container ul li a {
 }
 
 nav .container ul li a:hover {
-    color: var(--color-primary);
+    color: rgba(0, 212, 255, 1);
 }
 
-/* nav .container ul li a.active {
-    background: var(--color-primary);
-    color: var(--color-white);
-} */
+nav .container ul li a.active {
+    background: rgba(2, 0, 36, 1);
+    color: rgba(0, 212, 255, 1);
+}
+
 
 
